@@ -1,2 +1,10 @@
-# python in data analysis 
-# ex_ml1m_python_numpy.ipynb : Movielense 1 million data set example - calculate mean of (unique) user IDs  
+# Python in Data Analysis 
+
+#### Numpy library  
+ * MovieLense 1 million data set : calculate unique user ID's mean 
+ * 
+
+#### Pandas library
+ * 
+
+Have fun in Python!!! :+1:
